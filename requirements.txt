@@ -11,6 +11,6 @@ PyJWT==1.4.2
 pytz==2018.9
 six==1.12.0
 SQLAlchemy
-Werkzeug==0.14.1
+Werkzeug
 uwsgi
 psycopg2
